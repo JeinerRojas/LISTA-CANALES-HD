@@ -29,479 +29,326 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
 ----CANALES MUNDIALES----
 
-#EXTINF:0,Juntos
+#EXTINF:10,Juntos
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
-#EXTINF:0,Juntos TV
+#EXTINF:10,Juntos TV
 https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
 
-#EXTINF:0,Top Cine
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:0,SyFy
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,SyFy
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/190
 
-#EXTINF:0,TNT
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,TNT
 http://gratis.shortgod.com/lala4q/tv4.php?c=128.m3u8
 
-#EXTINF:187,TNT Series
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,TNT Series
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/812
 
-#EXTINF:0,FX
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,FX
 http://gratis.shortgod.com/lala4q//tv6.php?c=12060
 
-#EXTINF:0,FX Movies
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,FX Movies
 http://gratis.shortgod.com/ratonescuriosos/tv6.php?c=a0gm/index.m3u8
 
-#EXTINF:0,Star Life
-#EXTVLCOPT:http-user-agent=crc_apps
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Star Life
 http://89.163.144.105:8001/PLUSCRACKSTVA/74587CXSFSCXzs/129
 
-#EXTINF:0,Star Channel 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Star Channel 1
 http://190.83.119.67:8000/play/a0tj/index.m3u8
 
-#EXTINF:0,HBO (1)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,HBO (1)
 http://190.83.119.67:8000/play/a0pr/index.m3u8
 
-#EXTINF:0,HBO (2)
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,HBO (2)
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/163
 
-#EXTINF:0,HBO 2 (1)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,HBO 2 (1)
 http://190.83.119.67:8000/play/a0ps/index.m3u8
 
-#EXTINF:0,HBO 2 (2)
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,HBO 2 (2)
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/164
 
-#EXTINF:0,HBO Family
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,HBO Family
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/165
 
-#EXTINF:0,HBO Signature
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,HBO Signature
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/167
 
-#EXTINF:0,HBO Plus (1)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,HBO Plus (1)
 http://190.83.119.67:8000/play/a0pt/index.m3u8
 
-#EXTINF:0,HBO Plus (2)
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,HBO Plus (2)
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/166
 
-#EXTINF:0,HBO Extreme (1)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,HBO Extreme (1)
 http://190.83.119.67:8000/play/a0pv/index.m3u8
 
-#EXTINF:187,Golden
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Golden
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/201
 
-#EXTINF:187,Golden Edge
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Golden Edge
 http://gratis.shortgod.com/lala4q//tv6.php?c=12065
 
-#EXTINF:187,Golden Plus
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Golden Plus
 http://gratis.shortgod.com/lala4q//tv6.php?c=12066
 
-#EXTINF:0,Golden Premier
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Golden Premier
 https://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:443/Vjfhrhhbhfdfjjgf2fhgEthhgBgfgIgfg0hfvgUghfgRtgv8ghgRF/HjvrfdQfgvjhbhgRgjhUkbvnmbxzv09ggg8ghjQfhjj1ghghggRh/609
 
-#EXTINF:0,Neox
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Neox
 http://gratis.shortgod.com/hablapemongol/tves3.php?c=14080
 
-#EXTINF:0,A&E
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,A&E
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/196
 
-#EXTINF:187,Discovery
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Discovery
 http://190.83.119.67:8000/play/a0uw/index.m3u8
 
-#EXTINF:187,Discovery México
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Discovery México
 http://node1.smartersapp.net:2082/UDUPLEXR001/PDUPLEXR002/817
 
-#EXTINF:0,Discovery Theater
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Discovery Theater
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/152
 
-#EXTINF:0,Discovery World
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Discovery World
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/145
 
-#EXTINF:0,Discovery H&H
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Discovery H&H
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/803
 
-#EXTINF:0,Nat Geo
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Nat Geo
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/815
 
-#EXTINF:0,Nat Geo Mundo
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Nat Geo Mundo
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/814
 
-#EXTINF:0,Nat Geo Wild
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Nat Geo Wild
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/FjhdcgdjteatgbjkigvjedTvcjucktsawfgtghrabcmxtrhjtCN/FgvjpggjggdfrstjjkvdssArchhogdxfwtMncxzgydyrxgtwwiCh/636
 
-#EXTINF:187,Nat Geo Kids
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Nat Geo Kids
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/236
 
-#EXTINF:0,Animal Planet
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Animal Planet
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/175
 
-#EXTINF:0,History (1)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,History (1)
 http://gratis.shortgod.com/lala4q/tv5.php?c=642&f=.m3u8
 
-#EXTINF:0,History (2)
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,History (2)
 http://190.83.119.67:8000/play/a0qx/index.m3u8
 
-#EXTINF:187,History 2
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,History 2
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/174
 
-#EXTINF:0,Universal
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Universal
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/178
 
-#EXTINF:187,Universal Cinema
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Universal Cinema
 https://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:443/Vjfhrhhbhfdfjjgf2fhgEthhgBgfgIgfg0hfvgUghfgRtgv8ghgRF/HjvrfdQfgvjhbhgRgjhUkbvnmbxzv09ggg8ghjQfhjj1ghghggRh/595
 
-#EXTINF:187,Universal Comedy
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Universal Comedy
 https://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:443/Vjfhrhhbhfdfjjgf2fhgEthhgBgfgIgfg0hfvgUghfgRtgv8ghgRF/HjvrfdQfgvjhbhgRgjhUkbvnmbxzv09ggg8ghjQfhjj1ghghggRh/597
 
-#EXTINF:187,Universal Premiere 1
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Universal Premiere 1
 https://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:443/Vjfhrhhbhfdfjjgf2fhgEthhgBgfgIgfg0hfvgUghfgRtgv8ghgRF/HjvrfdQfgvjhbhgRgjhUkbvnmbxzv09ggg8ghjQfhjj1ghghggRh/599
 
-#EXTINF:187,Studio Universal
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Studio Universal
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/131
 
-#EXTINF:187,Imagen Universal TV
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:0,Warner Bros (1)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Warner Bros (1)
 http://gratis.shortgod.com/lala4q/tv4.php?c=179.m3u8
 
-#EXTINF:0,Warner Bros (2)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Warner Bros (2)
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 
-#EXTINF:0,Boomerang
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Boomerang
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/233
 
-#EXTINF:0,Nickelodeon
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Nickelodeon
 http://190.83.119.67:8000/play/a0tw/index.m3u8
 
-#EXTINF:0,Nick (1)
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Nick (1)
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/FjhdcgdjteatgbjkigvjedTvcjucktsawfgtghrabcmxtrhjtCN/FgvjpggjggdfrstjjkvdssArchhogdxfwtMncxzgydyrxgtwwiCh/638
 
-#EXTINF:0,Nick (2)
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Nick (2)
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/229
 
-#EXTINF:0,Nick Junior
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Nick Junior
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/232
 
-#EXTINF:0,Cartoon Network
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:0,Cartoonito
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:0,Xtrema Cartoons
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Xtrema Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
-#EXTINF:0,Xtrema Retro Cartoons
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Xtrema Retro Cartoons
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
-#EXTINF:187,Discovery Kids
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Discovery Kids
 http://190.83.119.67:8000/play/a0ux/index.m3u8
 
-#EXTINF:187,Disney Channel (1)
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Disney Channel (1)
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/FjhdcgdjteatgbjkigvjedTvcjucktsawfgtghrabcmxtrhjtCN/FgvjpggjggdfrstjjkvdssArchhogdxfwtMncxzgydyrxgtwwiCh/578
 
-#EXTINF:187,Disney Channel (2)
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Disney Channel (2)
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/239
 
-#EXTINF:187,Disney Junior
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Disney Junior
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/240
 
-#EXTINF:187,Disney XD
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Disney XD
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/FjhdcgdjteatgbjkigvjedTvcjucktsawfgtghrabcmxtrhjtCN/FgvjpggjggdfrstjjkvdssArchhogdxfwtMncxzgydyrxgtwwiCh/580
 
-#EXTINF:0,Entertainment
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Entertainment
 http://190.83.119.67:8000/play/a0r5/index.m3u8
 
-#EXTINF:0,Cine Max
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Cine Max
 http://gratis.shortgod.com/lala4q/tv5.php?c=638&f=.m3u8
 
-#EXTINF:0,Cine Max (2)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Cine Max (2)
 http://node1.smartersapp.net:2082/UDUPLEXR001/PDUPLEXR002/813
 
-#EXTINF:0,Cine Canal
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Cine Canal
 http://gratis.shortgod.com/lala4q/tv5.php?c=479&f=.m3u8
 
-#EXTINF:0,Comedy Central
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Comedy Central
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/193
 
-#EXTINF:0,Paramount
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Paramount
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/189
 
-#EXTINF:0,Sony
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Sony
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/188
 
-#EXTINF:0,Sony Movies
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Sony Movies
 http://190.83.119.67:8000/play/a0rc/index.m3u8
 
-#EXTINF:0,Sony Cine
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:0,Space
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Space
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/191
 
-#EXTINF:0,ID
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,ID
 http://190.83.119.67:8000/play/a0v1/index.m3u8
 
-#EXTINF:0,Morbido
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Morbido
 http://51.222.43.170:36995/Luisapk/Si0yNffK39/38
 
-#EXTINF:0,#0
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,#0
 http://gratis.shortgod.com/hablapemongol/tves3.php?c=13996
 
-#EXTINF:43,Latino Starz
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Starz
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/344
 
-#EXTINF:41,Latino Starz Encore
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Starz Encore
 http://gratis.shortgod.com/hablapemongol/tv2.php?c=6725
 
-#EXTINF:28,Latino Starz Encore 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Starz Encore 2
 http://gratis.shortgod.com/hablapemongol/tv2.php?c=6737
 
-#EXTINF:0,Latino Starz Encore Action
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Starz Encore Action
 http://gratis.shortgod.com/hablapemongol/tv2.php?c=6738
 
-#EXTINF:43,Latino Starz Encore Classic
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Starz Encore Classic
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/346
 
-#EXTINF:0,Latino Starz Encore Black
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Starz Encore Black
 http://gratis.shortgod.com/hablapemongol/tv2.php?c=6740
 
-#EXTINF:35,Latino Starz Encore Family
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Starz Encore Family
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/345
 
-#EXTINF:0,Latino Starz Encore Suspense
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Starz Encore Suspense
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/349
 
-#EXTINF:0,Latino Starz Encore Western
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Starz Encore Western
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/350
 
-#EXTINF:40,Latino Starz Comedy
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Starz Comedy
 http://gratis.shortgod.com/hablapemongol/tv2.php?c=6726
 
-#EXTINF:30,Latino Starz Comedy 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Starz Comedy 2
 http://gratis.shortgod.com/hablapemongol/tv2.php?c=6734
 
-#EXTINF:36,Latino Starz Edge
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Starz Edge
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/347
 
-#EXTINF:33,Latino Starz Cinema
-#EXTVLCOPT:http-user-agent=20100101
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Starz Cinema
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/342
 
-#EXTINF:40,Latino Starz Kids & Family
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Starz Kids & Family
 http://gratis.shortgod.com/hablapemongol/tv2.php?c=6736
 
-#EXTINF:26,Latino Showtime
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Showtime
 http://gratis.shortgod.com/hablapemongol/tv2.php?c=6728
 
-#EXTINF:30,Latino Showtime West
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Showtime West
 http://gratis.shortgod.com/hablapemongol/tv2.php?c=6727
 
-#EXTINF:34,Latino Showtime East
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Showtime East
 http://gratis.shortgod.com/hablapemongol/tv2.php?c=6729
 
-#EXTINF:30,Latino Showtime Beyond
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Showtime Beyond
 http://gratis.shortgod.com/hablapemongol/tv2.php?c=6730
 
-#EXTINF:30,Latino Cine Max
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Cine Max
 http://gratis.shortgod.com/hablapemongol/tv2.php?c=6731
 
-#EXTINF:0,Latino Movie Plex
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Latino Movie Plex
 http://gratis.shortgod.com/hablapemongol/tv2.php?c=6743
 
-#EXTINF:0,Holvoet TV Chile
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Holvoet TV Chile
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
 
-#EXTINF:0,Multimedios Monterrey
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:0,SEO TV 4 Películas
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,SEO TV 4 Películas
 https://live.seo.tv.bo/live/4SEO.m3u8
 
 ----24/7----
 
 
-#EXTINF:27,Los Simpsons
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,24/7 Los Simpsons
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
-#EXTINF:27,24/7 LOS SIMPSONS 22-26
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,24/7 LOS SIMPSONS 22-10
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/FjhdcgdjteatgbjkigvjedTvcjucktsawfgtghrabcmxtrhjtCN/FgvjpggjggdfrstjjkvdssArchhogdxfwtMncxzgydyrxgtwwiCh/984
 
-#EXTINF:27,24/7 LOS SIMPSONS 27-30
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,24/7 LOS SIMPSONS 10-10
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/FjhdcgdjteatgbjkigvjedTvcjucktsawfgtghrabcmxtrhjtCN/FgvjpggjggdfrstjjkvdssArchhogdxfwtMncxzgydyrxgtwwiCh/985
 
-#EXTINF:26,El Chavo
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,24/7 El Chavo
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 
-#EXTINF:36,Angry Birds
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,24/7 Angry Birds
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
 
-#EXTINF:36,Chapulin Colorado
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,24/7 Chapulin Colorado
 https://www.m3ukodi.com/servicios/ultimate/app_ultimate.php?Q2hhcHVsaW4gQ29sb3JhZG8gMjQvNw==
 
-#EXTINF:37,Chespirito
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,24/7 Chespirito
 https://www.m3ukodi.com/servicios/ultimate/app_ultimate.php?Q2hlc3Bpcml0byAyNC83
 
-#EXTINF:34,Cine Terror
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,24/7 Cine Terror
 http://gratis.shortgod.com/hablapemongol/tv6.php?c=704.m3u8
 
-#EXTINF:44,Dragon Ball Super
-#EXTVLCOPT:network-caching=1000
+#EXTINF:10,24/7 Dragon Ball Super
 https://www.m3ukodi.com/servicios/ultimate/app_ultimate.php?RHJhZ29uIEJhbGwgU3VwZXIgMjQvNw==
+
+#EXTINF:10,24/7 Bob Esponja
+https://www.youtube.com/c624f08a-882d-475d-816d-c2168e0bd184
+
+#EXTINF:10,24/7 Peppa Pig
+https://www.youtube.com/6d57cb58-7246-4a54-a601-7e74bc96258c
