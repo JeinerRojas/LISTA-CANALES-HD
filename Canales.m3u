@@ -10,11 +10,12 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 
 #EXTINF:10,América
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=F73m5a8ZJwkFlqacE55WhWrJtjJZdqWG&sid=w9PedcJ3NnLlM5rYmifCIxxclz2TvLUg&pid=5SVzxZy4HPrBBsfK7qlyCNZleWlyRPdc&an=screen&at=web-app&av=v5.2.374&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=941x529&without_cookies=false&listenerid=&dnt=true&access_token=ptZgIA3QDMSp7rGutVvZWH01dCNpFCkkJdlILY6pJWO0X1Yyr434JfwIIZvl8C5YA1iJ3MMxmRd
+
 #EXTINF:10,TV Perú
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
 
 #EXTINF:10,Panamericana
-https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFsSiNIf7zjdsGPaLYP0dhYRkZGmcAXnnmnKZYXINRBLu)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+https://cdn75.iblups.com/hls/stream.m3u8
 
 #EXTINF:10,Global TV
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
@@ -49,74 +50,28 @@ http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/812
 #EXTINF:10,FX
 http://gratis.shortgod.com/lala4q//tv6.php?c=12060
 
-#EXTINF:10,FX Movies
-http://gratis.shortgod.com/ratonescuriosos/tv6.php?c=a0gm/index.m3u8
-
-#EXTINF:10,Star Life
-http://89.163.144.105:8001/PLUSCRACKSTVA/74587CXSFSCXzs/129
-
-#EXTINF:10,Star Channel 1
+#EXTINF:10,Star Channel
 http://190.83.119.67:8000/play/a0tj/index.m3u8
 
-#EXTINF:10,HBO (1)
+#EXTINF:10,HBO
 http://190.83.119.67:8000/play/a0pr/index.m3u8
 
-#EXTINF:10,HBO (2)
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/163
-
-#EXTINF:10,HBO 2 (1)
+#EXTINF:10,HBO 2
 http://190.83.119.67:8000/play/a0ps/index.m3u8
-
-#EXTINF:10,HBO 2 (2)
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/164
 
 #EXTINF:10,HBO Family
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/165
 
-#EXTINF:10,HBO Signature
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/167
-
-#EXTINF:10,HBO Plus (1)
-http://190.83.119.67:8000/play/a0pt/index.m3u8
-
-#EXTINF:10,HBO Plus (2)
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/166
-
-#EXTINF:10,HBO Extreme (1)
 http://190.83.119.67:8000/play/a0pv/index.m3u8
 
 #EXTINF:10,Golden
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/201
-
-#EXTINF:10,Golden Edge
-http://gratis.shortgod.com/lala4q//tv6.php?c=12065
-
-#EXTINF:10,Golden Plus
-http://gratis.shortgod.com/lala4q//tv6.php?c=12066
-
-#EXTINF:10,Golden Premier
-https://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:443/Vjfhrhhbhfdfjjgf2fhgEthhgBgfgIgfg0hfvgUghfgRtgv8ghgRF/HjvrfdQfgvjhbhgRgjhUkbvnmbxzv09ggg8ghjQfhjj1ghghggRh/609
 
 #EXTINF:10,Neox
 http://gratis.shortgod.com/hablapemongol/tves3.php?c=14080
 
 #EXTINF:10,A&E
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/196
-
-#EXTINF:10,Discovery
-http://190.83.119.67:8000/play/a0uw/index.m3u8
-
-#EXTINF:10,Discovery México
-http://node1.smartersapp.net:2082/UDUPLEXR001/PDUPLEXR002/817
-
-#EXTINF:10,Discovery Theater
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/152
-
-#EXTINF:10,Discovery World
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/145
-
-#EXTINF:10,Discovery H&H
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/803
 
 #EXTINF:10,Nat Geo
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/815
@@ -133,14 +88,8 @@ http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/236
 #EXTINF:10,Animal Planet
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/175
 
-#EXTINF:10,History (1)
+#EXTINF:10,History
 http://gratis.shortgod.com/lala4q/tv5.php?c=642&f=.m3u8
-
-#EXTINF:10,History (2)
-http://190.83.119.67:8000/play/a0qx/index.m3u8
-
-#EXTINF:10,History 2
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/174
 
 #EXTINF:10,Universal
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/178
@@ -160,23 +109,14 @@ http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/131
 #EXTINF:10,Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:10,Warner Bros (1)
+#EXTINF:10,Warner Bros
 http://gratis.shortgod.com/lala4q/tv4.php?c=179.m3u8
-
-#EXTINF:10,Warner Bros (2)
-http://190.83.119.67:8000/play/a0tk/index.m3u8
 
 #EXTINF:10,Boomerang
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/233
 
 #EXTINF:10,Nickelodeon
 http://190.83.119.67:8000/play/a0tw/index.m3u8
-
-#EXTINF:10,Nick (1)
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/FjhdcgdjteatgbjkigvjedTvcjucktsawfgtghrabcmxtrhjtCN/FgvjpggjggdfrstjjkvdssArchhogdxfwtMncxzgydyrxgtwwiCh/638
-
-#EXTINF:10,Nick (2)
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/229
 
 #EXTINF:10,Nick Junior
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/232
@@ -196,12 +136,6 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:10,Discovery Kids
 http://190.83.119.67:8000/play/a0ux/index.m3u8
 
-#EXTINF:10,Disney Channel (1)
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/FjhdcgdjteatgbjkigvjedTvcjucktsawfgtghrabcmxtrhjtCN/FgvjpggjggdfrstjjkvdssArchhogdxfwtMncxzgydyrxgtwwiCh/578
-
-#EXTINF:10,Disney Channel (2)
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/239
-
 #EXTINF:10,Disney Junior
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/240
 
@@ -213,9 +147,6 @@ http://190.83.119.67:8000/play/a0r5/index.m3u8
 
 #EXTINF:10,Cine Max
 http://gratis.shortgod.com/lala4q/tv5.php?c=638&f=.m3u8
-
-#EXTINF:10,Cine Max (2)
-http://node1.smartersapp.net:2082/UDUPLEXR001/PDUPLEXR002/813
 
 #EXTINF:10,Cine Canal
 http://gratis.shortgod.com/lala4q/tv5.php?c=479&f=.m3u8
@@ -241,72 +172,6 @@ http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/191
 #EXTINF:10,ID
 http://190.83.119.67:8000/play/a0v1/index.m3u8
 
-#EXTINF:10,Morbido
-http://51.222.43.170:36995/Luisapk/Si0yNffK39/38
-
-#EXTINF:10,#0
-http://gratis.shortgod.com/hablapemongol/tves3.php?c=13996
-
-#EXTINF:10,Latino Starz
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/344
-
-#EXTINF:10,Latino Starz Encore
-http://gratis.shortgod.com/hablapemongol/tv2.php?c=6725
-
-#EXTINF:10,Latino Starz Encore 2
-http://gratis.shortgod.com/hablapemongol/tv2.php?c=6737
-
-#EXTINF:10,Latino Starz Encore Action
-http://gratis.shortgod.com/hablapemongol/tv2.php?c=6738
-
-#EXTINF:10,Latino Starz Encore Classic
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/346
-
-#EXTINF:10,Latino Starz Encore Black
-http://gratis.shortgod.com/hablapemongol/tv2.php?c=6740
-
-#EXTINF:10,Latino Starz Encore Family
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/345
-
-#EXTINF:10,Latino Starz Encore Suspense
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/349
-
-#EXTINF:10,Latino Starz Encore Western
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/350
-
-#EXTINF:10,Latino Starz Comedy
-http://gratis.shortgod.com/hablapemongol/tv2.php?c=6726
-
-#EXTINF:10,Latino Starz Comedy 2
-http://gratis.shortgod.com/hablapemongol/tv2.php?c=6734
-
-#EXTINF:10,Latino Starz Edge
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/347
-
-#EXTINF:10,Latino Starz Cinema
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/342
-
-#EXTINF:10,Latino Starz Kids & Family
-http://gratis.shortgod.com/hablapemongol/tv2.php?c=6736
-
-#EXTINF:10,Latino Showtime
-http://gratis.shortgod.com/hablapemongol/tv2.php?c=6728
-
-#EXTINF:10,Latino Showtime West
-http://gratis.shortgod.com/hablapemongol/tv2.php?c=6727
-
-#EXTINF:10,Latino Showtime East
-http://gratis.shortgod.com/hablapemongol/tv2.php?c=6729
-
-#EXTINF:10,Latino Showtime Beyond
-http://gratis.shortgod.com/hablapemongol/tv2.php?c=6730
-
-#EXTINF:10,Latino Cine Max
-http://gratis.shortgod.com/hablapemongol/tv2.php?c=6731
-
-#EXTINF:10,Latino Movie Plex
-http://gratis.shortgod.com/hablapemongol/tv2.php?c=6743
-
 #EXTINF:10,Holvoet TV Chile
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
 
@@ -318,33 +183,6 @@ https://live.seo.tv.bo/live/4SEO.m3u8
 
 ----24/7----
 
-
-#EXTINF:10,24/7 Los Simpsons
-https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
-
-#EXTINF:10,24/7 LOS SIMPSONS 22-10
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/FjhdcgdjteatgbjkigvjedTvcjucktsawfgtghrabcmxtrhjtCN/FgvjpggjggdfrstjjkvdssArchhogdxfwtMncxzgydyrxgtwwiCh/984
-
-#EXTINF:10,24/7 LOS SIMPSONS 10-10
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/FjhdcgdjteatgbjkigvjedTvcjucktsawfgtghrabcmxtrhjtCN/FgvjpggjggdfrstjjkvdssArchhogdxfwtMncxzgydyrxgtwwiCh/985
-
-#EXTINF:10,24/7 El Chavo
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
-
-#EXTINF:10,24/7 Angry Birds
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
-
-#EXTINF:10,24/7 Chapulin Colorado
-https://www.m3ukodi.com/servicios/ultimate/app_ultimate.php?Q2hhcHVsaW4gQ29sb3JhZG8gMjQvNw==
-
-#EXTINF:10,24/7 Chespirito
-https://www.m3ukodi.com/servicios/ultimate/app_ultimate.php?Q2hlc3Bpcml0byAyNC83
-
-#EXTINF:10,24/7 Cine Terror
-http://gratis.shortgod.com/hablapemongol/tv6.php?c=704.m3u8
-
-#EXTINF:10,24/7 Dragon Ball Super
-https://www.m3ukodi.com/servicios/ultimate/app_ultimate.php?RHJhZ29uIEJhbGwgU3VwZXIgMjQvNw==
 
 #EXTINF:10,24/7 Bob Esponja
 https://www.youtube.com/c624f08a-882d-475d-816d-c2168e0bd184
