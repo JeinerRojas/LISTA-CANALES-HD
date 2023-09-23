@@ -3,36 +3,27 @@
 ----CANALES PERUANOS----
 
 #EXTINF:0,Latina
-#EXTVLCOPT:network-caching=1000
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
 #EXTINF:30,ATV
-#EXTVLCOPT:network-caching=1000
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 
 #EXTINF:41,América
-#EXTVLCOPT:network-caching=1000
 https://www.m3ukodi.com/servicios/ultimate/app_ultimate.php?QW1lcmljYQ==
 
 #EXTINF:124,TV Perú
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTVLCOPT:network-caching=1000
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
 
 #EXTINF:0,Panamericana
-#EXTVLCOPT:network-caching=1000
 http://gratis.shortgod.com/ratonescuriosos/tv4.1.php?c=3351.m3u8
 
 #EXTINF:0,Global TV
-#EXTVLCOPT:network-caching=1000
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
 
 #EXTINF:0,Perú Channel
-#EXTVLCOPT:network-caching=1000
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
 
 #EXTINF:0,Platzi TV
-#EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
 
