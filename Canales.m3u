@@ -1,191 +1,35 @@
 #EXTM3U
-
-----CANALES PERUANOS----
-
 #EXTINF:10,Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
-
 #EXTINF:10,ATV
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
-
-#EXTINF:10,América
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=F73m5a8ZJwkFlqacE55WhWrJtjJZdqWG&sid=w9PedcJ3NnLlM5rYmifCIxxclz2TvLUg&pid=5SVzxZy4HPrBBsfK7qlyCNZleWlyRPdc&an=screen&at=web-app&av=v5.2.374&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=941x529&without_cookies=false&listenerid=&dnt=true&access_token=ptZgIA3QDMSp7rGutVvZWH01dCNpFCkkJdlILY6pJWO0X1Yyr434JfwIIZvl8C5YA1iJ3MMxmRd
-
 #EXTINF:10,TV Perú
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
-
 #EXTINF:10,Panamericana
 https://cdn75.iblups.com/hls/stream.m3u8
-
 #EXTINF:10,Global TV
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
-
 #EXTINF:10,Perú Channel
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
-
-#EXTINF:10,Platzi TV
-https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-
-
-----CANALES MUNDIALES----
-
 #EXTINF:10,Juntos
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-
 #EXTINF:10,Juntos TV
 https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
-
 #EXTINF:10,Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
-#EXTINF:10,SyFy
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/190
-
-#EXTINF:10,TNT
-http://gratis.shortgod.com/lala4q/tv4.php?c=128.m3u8
-
-#EXTINF:10,TNT Series
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/812
-
-#EXTINF:10,FX
-http://gratis.shortgod.com/lala4q//tv6.php?c=12060
-
-#EXTINF:10,Star Channel
-http://190.83.119.67:8000/play/a0tj/index.m3u8
-
-#EXTINF:10,HBO
-http://190.83.119.67:8000/play/a0pr/index.m3u8
-
-#EXTINF:10,HBO 2
-http://190.83.119.67:8000/play/a0ps/index.m3u8
-
-#EXTINF:10,HBO Family
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/165
-
-http://190.83.119.67:8000/play/a0pv/index.m3u8
-
-#EXTINF:10,Golden
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/201
-
-#EXTINF:10,Neox
-http://gratis.shortgod.com/hablapemongol/tves3.php?c=14080
-
-#EXTINF:10,A&E
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/196
-
-#EXTINF:10,Nat Geo
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/815
-
-#EXTINF:10,Nat Geo Mundo
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/814
-
-#EXTINF:10,Nat Geo Wild
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/FjhdcgdjteatgbjkigvjedTvcjucktsawfgtghrabcmxtrhjtCN/FgvjpggjggdfrstjjkvdssArchhogdxfwtMncxzgydyrxgtwwiCh/636
-
-#EXTINF:10,Nat Geo Kids
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/236
-
-#EXTINF:10,Animal Planet
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/175
-
-#EXTINF:10,History
-http://gratis.shortgod.com/lala4q/tv5.php?c=642&f=.m3u8
-
-#EXTINF:10,Universal
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/178
-
-#EXTINF:10,Universal Cinema
-https://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:443/Vjfhrhhbhfdfjjgf2fhgEthhgBgfgIgfg0hfvgUghfgRtgv8ghgRF/HjvrfdQfgvjhbhgRgjhUkbvnmbxzv09ggg8ghjQfhjj1ghghggRh/595
-
-#EXTINF:10,Universal Comedy
-https://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:443/Vjfhrhhbhfdfjjgf2fhgEthhgBgfgIgfg0hfvgUghfgRtgv8ghgRF/HjvrfdQfgvjhbhgRgjhUkbvnmbxzv09ggg8ghjQfhjj1ghghggRh/597
-
-#EXTINF:10,Universal Premiere 1
-https://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:443/Vjfhrhhbhfdfjjgf2fhgEthhgBgfgIgfg0hfvgUghfgRtgv8ghgRF/HjvrfdQfgvjhbhgRgjhUkbvnmbxzv09ggg8ghjQfhjj1ghghggRh/599
-
-#EXTINF:10,Studio Universal
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/131
-
 #EXTINF:10,Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-
-#EXTINF:10,Warner Bros
-http://gratis.shortgod.com/lala4q/tv4.php?c=179.m3u8
-
-#EXTINF:10,Boomerang
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/233
-
-#EXTINF:10,Nickelodeon
-http://190.83.119.67:8000/play/a0tw/index.m3u8
-
-#EXTINF:10,Nick Junior
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/232
-
 #EXTINF:10,Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-
 #EXTINF:10,Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-
 #EXTINF:10,Xtrema Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-
 #EXTINF:10,Xtrema Retro Cartoons
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-
-#EXTINF:10,Discovery Kids
-http://190.83.119.67:8000/play/a0ux/index.m3u8
-
-#EXTINF:10,Disney Junior
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/240
-
-#EXTINF:10,Disney XD
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/FjhdcgdjteatgbjkigvjedTvcjucktsawfgtghrabcmxtrhjtCN/FgvjpggjggdfrstjjkvdssArchhogdxfwtMncxzgydyrxgtwwiCh/580
-
-#EXTINF:10,Entertainment
-http://190.83.119.67:8000/play/a0r5/index.m3u8
-
-#EXTINF:10,Cine Max
-http://gratis.shortgod.com/lala4q/tv5.php?c=638&f=.m3u8
-
-#EXTINF:10,Cine Canal
-http://gratis.shortgod.com/lala4q/tv5.php?c=479&f=.m3u8
-
-#EXTINF:10,Comedy Central
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/193
-
-#EXTINF:10,Paramount
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/189
-
-#EXTINF:10,Sony
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/188
-
-#EXTINF:10,Sony Movies
-http://190.83.119.67:8000/play/a0rc/index.m3u8
-
 #EXTINF:10,Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-#EXTINF:10,Space
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/191
-
-#EXTINF:10,ID
-http://190.83.119.67:8000/play/a0v1/index.m3u8
-
 #EXTINF:10,Holvoet TV Chile
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
-
 #EXTINF:10,Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:10,SEO TV 4 Películas
-https://live.seo.tv.bo/live/4SEO.m3u8
-
-----24/7----
-
-
-#EXTINF:10,24/7 Bob Esponja
-https://www.youtube.com/c624f08a-882d-475d-816d-c2168e0bd184
-
-#EXTINF:10,24/7 Peppa Pig
-https://www.youtube.com/6d57cb58-7246-4a54-a601-7e74bc96258c
