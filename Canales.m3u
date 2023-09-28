@@ -5,6 +5,8 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:10,ATV+ Noticias
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
+#EXTINF:10,América
+https://clubtv.link/2509a/top6219/lista.php?c=a03w
 #EXTINF:10,TV Perú
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
 #EXTINF:10,Panamericana
@@ -42,13 +44,17 @@ http://clubtv.link/2509a/top6219/lista2.php?c=a01q
 #EXTINF:10,Golden
 http://clubtv.link/2509a/top6219/lista2.php?c=a04d
 #EXTINF:10,A&E
-http://clubtv.link/2509a/top6219/lista2.php?c=a032
+https://clubtv.link/2509a/top6219/lista.php?c=a01s
+#EXTINF:10,AMC
+https://clubtv.link/2509a/top6219/lista.php?c=a039
+#EXTINF:10,ATRES SERIES
+https://clubtv.link/2509a/top6219/lista.php?c=a02g
 #EXTINF:10,Nat Geo
 http://clubtv.link/2509a/top6219/lista2.php?c=a074
 #EXTINF:10,Animal Planet
-http://clubtv.link/2509a/top6219/lista2.php?c=a02z
+https://clubtv.link/2509a/top6219/lista.php?c=a03k
 #EXTINF:10,Discovery Channel
-http://clubtv.link/2509a/top6219/lista2.php?c=a077
+https://clubtv.link/2509a/top6219/lista.php?c=a0ar
 #EXTINF:10,History
 http://clubtv.link/2509a/top6219/lista2.php?c=a02s
 #EXTINF:10,Universal
@@ -85,12 +91,12 @@ http://clubtv.link/2509a/top6219/lista2.php?c=a06c
 http://clubtv.link/2509a/top6219/lista2.php?c=a026
 #EXTINF:10, E! Entertairment
 http://clubtv.link/2509a/top6219/lista2.php?c=a030
-#EXTINF:10,Cine Max
-http://clubtv.link/2509a/top6219/lista2.php?c=a06q
+#EXTINF:10,CineMax
+https://clubtv.link/2509a/top6219/lista.php?c=a02h
 #EXTINF:10,Cine Canal
-http://clubtv.link/2509a/top6219/lista2.php?c=a05f
+https://clubtv.link/2509a/top6219/lista.php?c=a08n
 #EXTINF:10,Comedy Central
-http://clubtv.link/2509a/top6219/lista2.php?c=a05p
+https://clubtv.link/2509a/top6219/lista.php?c=a02i
 #EXTINF:10,Paramount
 http://clubtv.link/2509a/top6219/lista2.php?c=a075
 #EXTINF:10,Sony
