@@ -1,16 +1,22 @@
 #EXTM3U
 #EXTINF:10,Latina
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:10,ATV
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:10,ATV+ Noticias
-https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:10,América
 https://clubtv.link/710oc/key4516/lista.php?c=a03w
 #EXTINF:10,TV Perú
-https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:10,TV Perú Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:10,TV Perú Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+#EXTINF:10,Nacional TV Perú
+https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:10,Panamericana
-https://cdn75.iblups.com/hls/stream.m3u8
+https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:10,Global TV
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
 #EXTINF:10,Perú Channel
@@ -46,7 +52,7 @@ http://clubtv.link/710oc/key4516/lista2.php?c=a04d
 #EXTINF:10,A&E
 https://clubtv.link/710oc/key4516/lista.php?c=a01s
 #EXTINF:10,AMC
-https://clubtv.link/710oc/key4516/lista.php?c=a039
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268073-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6f5fd68-d238-461a-85d9-c326f4f63ae9
 #EXTINF:10,ATRES SERIES
 https://clubtv.link/710oc/key4516/lista.php?c=a02g
 #EXTINF:10,Nat Geo
@@ -72,7 +78,7 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:10,Warner
 http://clubtv.link/710oc/key4516/lista2.php?c=a05d
 #EXTINF:10,Nickelodeon
-https://clubtv.link/710oc/key4516/lista.php?c=a08a
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
 #EXTINF:10,Nick Junior
 http://clubtv.link/710oc/key4516/lista2.php?c=a024
 #EXTINF:10,Cartoon Network
@@ -80,13 +86,15 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:10,Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:10,Xtrema Cartoons
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:10,Xtrema Retro Cartoons
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:10,Discovery Kids
 http://clubtv.link/710oc/key4516/lista2.php?c=a016
 #EXTINF:10,Disney
-http://clubtv.link/710oc/key4516/lista2.php?c=a06c
+http://168.181.122.234:8000/play/a038/index.m3u8
+#EXTINF:10,Disney Channel
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:10,Disney Junior
 http://clubtv.link/710oc/key4516/lista2.php?c=a026
 #EXTINF:10, E! Entertairment
@@ -109,8 +117,6 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 http://clubtv.link/710oc/key4516/lista2.php?c=a06x
 #EXTINF:10,ID
 http://clubtv.link/710oc/key4516/lista2.php?c=a07b
-#EXTINF:10,Holvoet TV Chile
-http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
 #EXTINF:10,Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
 #EXTINF:10,Uranio TV (Moyobamba)
