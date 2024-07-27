@@ -96,16 +96,16 @@ http://201.159.113.219:49000/play/a058/index.m3u8#checkedby:iptvlister.com
 http://38.41.8.1:8000/play/a01y#checkedby:iptvlister.com
 #EXTINF:10,Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:10,Warner
-http://clubtv.link/710oc/key4516/lista2.php?c=a05d
+#EXTINF:10,Warner Bros TV
+http://177.93.41.134:4000/play/a06c/index.m3u8#checkedby:iptvlister.com
 #EXTINF:10,Nickelodeon
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/51361#checkedby:iptvlister.com
 #EXTINF:10,Nick Junior
-http://clubtv.link/710oc/key4516/lista2.php?c=a024
+http://abcnew.site:8880/D12m2692/94245219/51422#checkedby:iptvlister.com
 #EXTINF:10,Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/51419#checkedby:iptvlister.com
 #EXTINF:10,Cartoonito
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+http://190.61.55.186:1010/play/714/index.m3u8#checkedby:iptvlister.com
 #EXTINF:10,Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:10,Xtrema Retro Cartoons
