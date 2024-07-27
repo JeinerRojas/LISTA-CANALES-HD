@@ -80,16 +80,20 @@ http://yesimes.oknirvana.club:8880/D12m2555/52433416/51365#checkedby:iptvlister.
 http://168.197.196.98:9981/stream/channelid/788658705?profile=pass&checkedby:iptvlister.com
 #EXTINF:10,History 2
 http://38.41.8.1:8000/play/a030#checkedby:iptvlister.com
-#EXTINF:10,Universal
-http://clubtv.link/710oc/key4516/lista2.php?c=a06m
-#EXTINF:10,Universal Cinema
-http://clubtv.link/710oc/key4516/lista2.php?c=a07c
+#EXTINF:10,Universal TV
+http://177.93.41.134:4000/play/a01g/index.m3u8#checkedby:iptvlister.com
 #EXTINF:10,Universal Comedy
+http://201.159.113.219:49000/play/a05a/index.m3u8#checkedby:iptvlister.com
+#EXTINF:10,Universal Cinema
+http://201.159.113.219:49000/play/a05o/index.m3u8#checkedby:iptvlister.com
+#EXTINF:10,Universal Plus
 http://clubtv.link/710oc/key4516/lista2.php?c=a05w
 #EXTINF:10,Universal Premiere
-http://clubtv.link/710oc/key4516/lista2.php?c=a05s
+http://204.157.251.250:8001/play/a02y/index.m3u8#checkedby:iptvlister.com
+#EXTINF:10,Universal Reality
+http://201.159.113.219:49000/play/a058/index.m3u8#checkedby:iptvlister.com
 #EXTINF:10,Studio Universal
-http://clubtv.link/710oc/key4516/lista2.php?c=a02y
+http://38.41.8.1:8000/play/a01y#checkedby:iptvlister.com
 #EXTINF:10,Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:10,Warner
