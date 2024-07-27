@@ -41,7 +41,7 @@ http://abcnew.site:8880/D12m2692/94245219/51378#checkedby:iptvlister.com
 #EXTINF:10,FX
 http://clubtv.link/710oc/key4516/lista2.php?c=a035
 #EXTINF:10,Star Channel
-http://clubtv.link/710oc/key4516/lista2.php?c=a05c
+http://201.159.113.219:49000/play/a03f/index.m3u8#checkedby:iptvlister.com
 #EXTINF:10,HBO
 http://38.41.8.1:8000/play/a01u#checkedby:iptvlister.com
 #EXTINF:10,HBO 2
@@ -51,9 +51,15 @@ http://170.82.37.21:8000/play/a02o/index.m3u8#checkedby:iptvlister.com
 #EXTINF:10,HBO Family
 http://38.41.8.1:8000/play/a031#checkedby:iptvlister.com
 #EXTINF:10,HBO Xtreme
-http://clubtv.link/710oc/key4516/lista2.php?c=a01q
+http://201.159.113.219:49000/play/a00p/index.m3u8#checkedby:iptvlister.com
 #EXTINF:10,Golden
-http://clubtv.link/710oc/key4516/lista2.php?c=a04d
+http://abcnew.site:8880/D12m2692/94245219/51368#checkedby:iptvlister.com
+#EXTINF:10,Golden Edge
+http://abcnew.site:8880/D12m2692/94245219/51367#checkedby:iptvlister.com
+#EXTINF:10,Golden Premiere
+http://204.157.251.250:8000/play/a06g/index.m3u8#checkedby:iptvlister.com
+#EXTINF:10,Golden Premiere 2
+http://204.157.251.250:8000/play/a06h/index.m3u8#checkedby:iptvlister.com
 #EXTINF:10,A&E
 https://clubtv.link/710oc/key4516/lista.php?c=a01s
 #EXTINF:10,AMC
