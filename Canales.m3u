@@ -111,7 +111,7 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:10,Xtrema Retro Cartoons
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:10,Discovery Kids
-http://clubtv.link/710oc/key4516/lista2.php?c=a016
+http://177.93.41.134:4000/play/a01m/index.m3u8#checkedby:iptvlister.com
 #EXTINF:10,Disney
 http://168.181.122.234:8000/play/a038/index.m3u8
 #EXTINF:10,Disney Channel
@@ -121,9 +121,9 @@ http://clubtv.link/710oc/key4516/lista2.php?c=a026
 #EXTINF:10, E! Entertairment
 http://clubtv.link/710oc/key4516/lista2.php?c=a030
 #EXTINF:10,CineMax
-https://clubtv.link/710oc/key4516/lista.php?c=a02h
+http://200.59.188.3:8000/play/a016#checkedby:iptvlister.com
 #EXTINF:10,Cine Canal
-https://clubtv.link/710oc/key4516/lista.php?c=a08n
+http://abcnew.site:8880/D12m2668/24493676/58045#checkedby:iptvlister.com
 #EXTINF:10,Comedy Central
 https://clubtv.link/710oc/key4516/lista.php?c=a02i
 #EXTINF:10,Paramount
